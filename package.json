@@ -1,16 +1,16 @@
 {
-"name": "mm88it",
-"theme": "mm88it",
-"version": "4.10.5",
-"description": "mm88it สมัครสมาชิกเว็บไซต์บาคาร่าเว็บตรง อันดับ 1 ให้เงินเครดิตฟรี",
-"keywords": [
-"mm88it",
-"mm88it เครดิตฟรี",
-"mm88it ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/mm88it",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "mm88it",
+  "theme": "mm88it",
+  "version": "4.11.0",
+  "description": "mm88it สมัครสมาชิกเว็บไซต์บาคาร่าเว็บตรง อันดับ 1 ให้เงินเครดิตฟรี",
+  "keywords": [
+    "mm88it",
+    "mm88it เครดิตฟรี",
+    "mm88it ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/mm88it",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
